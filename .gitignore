@@ -1,0 +1,6 @@
+.vscode/
+.history/
+assets/
+*.dll
+*.exe
+*.lib
